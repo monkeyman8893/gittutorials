@@ -1,1 +1,1 @@
-This file should be added to the devloper branch.
+this should be added to the developer branch.
